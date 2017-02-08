@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Das große Boston Terrier Quiz</string>
+    <string name="ans_3_1">unter 7 kg</string>
+    <string name="button_check_answers">prüfen</string>
+    <string name="button_close">schließen</string>
+    <string name="hint_q4">Höhe in cm</string>
+    <string name="q1">Der Boston Terrier ist der Hunde des Bundesstaates...</string>
+    <string name="q2">Den Boston Terrier nennt man auch...</string>
+    <string name="q3">Nach gültigem Standard, welche Gewichtsklassen gibt es?</string>
+    <string name="q4">Wie groß ist die Schulterhöhe des Boston Terriers?</string>
+    <string name="q5">Wie alt wird der Boston Terrier?</string>
+    <string name="qh1">Frage 1:</string>
+    <string name="qh2">Frage 2:</string>
+    <string name="qh3">Frage 3:</string>
+    <string name="qh4">Frage 4:</string>
+    <string name="qh5">Frage 5:</string>
+    <string name="score_text">Deine Punktzahl beträgt %d von 7!!!</string>
+    <string name="scoretext_better">Könnte besser sein!</string>
+    <string name="scoretext_good">Gut gemacht!</string>
+    <string name="scoretext_great">Wahnsinn! Perfekt!</string>
+</resources>

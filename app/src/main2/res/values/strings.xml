@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">The great Boston Terrier Quiz</string>
+    <string name="button_check_answers">Check Answers</string>
+    <string name="ans_5_3" translatable="false">13-15</string>
+    <string name="ans_5_2" translatable="false">11-13</string>
+    <string name="ans_5_1" translatable="false">9-11</string>
+    <string name="q5">How old a Boston Terrier can be?</string>
+    <string name="q4">What is the shoulder height of a Boston Terrier?</string>
+    <string name="q3">What are, according to the standard, the weight classes of a Boston Terrier</string>
+    <string name="q2">The Boston Terrier is also called…</string>
+    <string name="q1">The Boston Terrier is the state dog of...</string>
+    <string name="qh1">Question 1:</string>
+    <string name="qh2">Question 2:</string>
+    <string name="qh3">Question 3:</string>
+    <string name="qh4">Question 4:</string>
+    <string name="qh5">Question 5:</string>
+    <string name="hint_q4">height in cm</string>
+    <string name="ans_3_3" translatable="false">9 - 12 kg</string>
+    <string name="ans_3_2" translatable="false">7 - 9 kg</string>
+    <string name="ans_3_1">Below 7 kg</string>
+    <string name="ans_2_3" translatable="false">American cavalier</string>
+    <string name="ans_2_2" translatable="false">American Knight</string>
+    <string name="ans_2_1" translatable="false">American Gentleman</string>
+    <string name="ans_1_3" translatable="false">Massachusetts</string>
+    <string name="ans_1_2" translatable="false">Maine</string>
+    <string name="ans_1_1" translatable="false">Connecticut</string>
+    <string name="button_close">close</string>
+    <string name="scoretext_great">Great!</string>
+    <string name="scoretext_good">Good!</string>
+    <string name="scoretext_better">Could be better!</string>
+    <string name="score_text">Your Score is %d out of 7!!!</string>
+</resources>
